@@ -1,3 +1,4 @@
+<?php
 function restrict_access_admin_panel(){
     global $current_user;
     wp_get_current_user();
