@@ -1,3 +1,4 @@
+<?php
 function give_username(){
     $user=wp_get_current_user();
     $name=$user->display_name; 
