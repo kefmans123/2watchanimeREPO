@@ -1,3 +1,4 @@
+<?php
 function wpdocs_logout_redirect( $redirect_to, $requested_redirect_to, $user ) {
  
     $user_roles = $user->roles;
