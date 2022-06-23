@@ -6,7 +6,3 @@
 
 ## Project assignment
 This project is mainly my small snippets of code that I currently use for my own website called 2watchanime.nl. Every piece of code has a different type of functionality.
-
-## Project explained
-
-### 
