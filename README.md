@@ -6,3 +6,6 @@
 
 ## Project assignment
 This project is mainly my small snippets of code that I currently use for my own website called 2watchanime.nl. Every piece of code has a different type of functionality.
+
+## Wanna add this to your own wordpress website?
+You can add these small codes by installing the plugin [!Code Snippets](https://nl.wordpress.org/plugins/code-snippets/) and adding these small codes into snippets. If you click the run on all pages button after pasting the code it will function. For the JS script you will need to add a HTML code into your website with the JS code for it to function.
