@@ -1,3 +1,4 @@
+<?php
 // Redirect the user back to the login page after the login failed, and add a $_GET parameter to let us know. Courtesy of WordPressFlow.com
     add_action( 'wp_login_failed', 'elementor_form_login_fail', 9999999 );
     function elementor_form_login_fail( $username ) {
