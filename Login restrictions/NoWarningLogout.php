@@ -1,3 +1,4 @@
+<?php
 add_action('check_admin_referer', 'pfwp_logout_without_confirm', 10, 2);
 function pfwp_logout_without_confirm($action, $result)
 {
