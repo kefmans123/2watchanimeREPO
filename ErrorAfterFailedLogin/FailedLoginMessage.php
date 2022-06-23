@@ -1,3 +1,4 @@
+<?php
 function generate_login_fail_messaging(){
         ob_start();
         if($_GET['login'] == 'failed'){
